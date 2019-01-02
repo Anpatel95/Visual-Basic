@@ -1,0 +1,31 @@
+v:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\ResolveAssemblyReference.cache
+v:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.frmDiceWar1.resources
+v:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.Resources.resources
+v:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\GenerateResource.read.1.tlog
+v:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\GenerateResource.write.1.tlog
+v:\15aapatel2\DiceWar1\DiceWar1\bin\Debug\DiceWar1.exe
+v:\15aapatel2\DiceWar1\DiceWar1\bin\Debug\DiceWar1.pdb
+v:\15aapatel2\DiceWar1\DiceWar1\bin\Debug\DiceWar1.xml
+v:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.exe
+v:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.xml
+v:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.pdb
+E:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.exe
+E:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.xml
+E:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.pdb
+E:\15aapatel2\DiceWar1\DiceWar1\bin\Debug\DiceWar1.exe
+E:\15aapatel2\DiceWar1\DiceWar1\bin\Debug\DiceWar1.pdb
+E:\15aapatel2\DiceWar1\DiceWar1\bin\Debug\DiceWar1.xml
+E:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.frmDiceWar1.resources
+E:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.Resources.resources
+E:\15aapatel2\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.vbproj.GenerateResource.Cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\bin\Debug\DiceWar1.exe
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\bin\Debug\DiceWar1.pdb
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\bin\Debug\DiceWar1.xml
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.vbprojAssemblyReference.cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.frmDiceWar1.resources
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.Resources.resources
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.vbproj.GenerateResource.cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.vbproj.CoreCompileInputs.cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.exe
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.xml
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\DiceWar1\DiceWar1\obj\x86\Debug\DiceWar1.pdb

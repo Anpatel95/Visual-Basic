@@ -1,0 +1,11 @@
+v:\15aapatel2\DisapperingCard\DisapperingCard\bin\Debug\DisapperingCard.exe
+v:\15aapatel2\DisapperingCard\DisapperingCard\bin\Debug\DisapperingCard.pdb
+v:\15aapatel2\DisapperingCard\DisapperingCard\bin\Debug\DisapperingCard.xml
+v:\15aapatel2\DisapperingCard\DisapperingCard\obj\x86\Debug\ResolveAssemblyReference.cache
+v:\15aapatel2\DisapperingCard\DisapperingCard\obj\x86\Debug\DisapperingCard.Form1.resources
+v:\15aapatel2\DisapperingCard\DisapperingCard\obj\x86\Debug\DisapperingCard.Resources.resources
+v:\15aapatel2\DisapperingCard\DisapperingCard\obj\x86\Debug\GenerateResource.read.1.tlog
+v:\15aapatel2\DisapperingCard\DisapperingCard\obj\x86\Debug\GenerateResource.write.1.tlog
+v:\15aapatel2\DisapperingCard\DisapperingCard\obj\x86\Debug\DisapperingCard.exe
+v:\15aapatel2\DisapperingCard\DisapperingCard\obj\x86\Debug\DisapperingCard.xml
+v:\15aapatel2\DisapperingCard\DisapperingCard\obj\x86\Debug\DisapperingCard.pdb

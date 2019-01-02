@@ -1,0 +1,46 @@
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.exe
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.pdb
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.xml
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap_Drawing_Demo.Resources.resources
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.vbproj.GenerateResource.Cache
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.exe
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.xml
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.pdb
+C:\books\VB Game Programming For Teens 3E\chap05\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap_Drawing_Demo.Form1.resources
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.exe
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.xml
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.pdb
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.exe
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.pdb
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.xml
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\ResolveAssemblyReference.cache
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap_Drawing_Demo.Form1.resources
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\Bitmap_Drawing_Demo.Resources.resources
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\GenerateResource.read.1.tlog
+F:\working folder, copy back\Visual Basic - Gaming - Organized\Text by Chapter\Chapter 05 -Bitmaps - Our Firt Building Blocks\Textbook Materials\Bitmap Drawing Demo\Bitmap Drawing Demo\obj\Debug\GenerateResource.write.1.tlog
+V:\Tedesco\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.exe
+V:\Tedesco\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.xml
+V:\Tedesco\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.pdb
+H:\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.exe
+H:\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.xml
+H:\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.pdb
+H:\Bitmap\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.exe
+H:\Bitmap\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.pdb
+H:\Bitmap\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.xml
+H:\Bitmap\Bitmap Drawing Demo\obj\Debug\ResolveAssemblyReference.cache
+H:\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap_Drawing_Demo.Form1.resources
+H:\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap_Drawing_Demo.Resources.resources
+H:\Bitmap\Bitmap Drawing Demo\obj\Debug\GenerateResource.read.1.tlog
+H:\Bitmap\Bitmap Drawing Demo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.exe
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.pdb
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\bin\Debug\Bitmap Drawing Demo.xml
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.vbprojAssemblyReference.cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap_Drawing_Demo.Form1.resources
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap_Drawing_Demo.Resources.resources
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.vbproj.GenerateResource.cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.vbproj.CoreCompileInputs.cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.exe
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.xml
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\Bitmap\Bitmap Drawing Demo\obj\Debug\Bitmap Drawing Demo.pdb

@@ -1,0 +1,13 @@
+C:\Users\patel\AppData\Local\Temporary Projects\TicketSale\bin\Debug\TicketSale.exe.config
+A:\Project\TicketSale\TicketSale\bin\Debug\TicketSale.exe.config
+A:\Project\TicketSale\TicketSale\bin\Debug\TicketSale.exe
+A:\Project\TicketSale\TicketSale\bin\Debug\TicketSale.pdb
+A:\Project\TicketSale\TicketSale\bin\Debug\TicketSale.xml
+A:\Project\TicketSale\TicketSale\obj\Debug\TicketSale.vbprojResolveAssemblyReference.cache
+A:\Project\TicketSale\TicketSale\obj\Debug\TicketSale.Resources.resources
+A:\Project\TicketSale\TicketSale\obj\Debug\TicketSale.vbproj.GenerateResource.Cache
+A:\Project\TicketSale\TicketSale\obj\Debug\TicketSale.exe
+A:\Project\TicketSale\TicketSale\obj\Debug\TicketSale.xml
+A:\Project\TicketSale\TicketSale\obj\Debug\TicketSale.pdb
+A:\Project\TicketSale\TicketSale\obj\Debug\TicketSale.TicketSale.resources
+A:\Project\TicketSale\TicketSale\obj\Debug\TicketSale.PrizeSchForm.resources

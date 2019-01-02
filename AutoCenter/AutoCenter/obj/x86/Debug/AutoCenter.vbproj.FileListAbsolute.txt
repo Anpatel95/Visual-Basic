@@ -1,0 +1,22 @@
+V:\15aapatel2\AutoCenter\AutoCenter\bin\Debug\AutoCenter.exe
+V:\15aapatel2\AutoCenter\AutoCenter\bin\Debug\AutoCenter.pdb
+V:\15aapatel2\AutoCenter\AutoCenter\bin\Debug\AutoCenter.xml
+V:\15aapatel2\AutoCenter\AutoCenter\obj\x86\Debug\ResolveAssemblyReference.cache
+V:\15aapatel2\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.Form1.resources
+V:\15aapatel2\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.Resources.resources
+V:\15aapatel2\AutoCenter\AutoCenter\obj\x86\Debug\GenerateResource.read.1.tlog
+V:\15aapatel2\AutoCenter\AutoCenter\obj\x86\Debug\GenerateResource.write.1.tlog
+V:\15aapatel2\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.exe
+V:\15aapatel2\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.xml
+V:\15aapatel2\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.pdb
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\bin\Debug\AutoCenter.exe
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\bin\Debug\AutoCenter.pdb
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\bin\Debug\AutoCenter.xml
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.vbprojAssemblyReference.cache
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.Form1.resources
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.Resources.resources
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.vbproj.GenerateResource.cache
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.vbproj.CoreCompileInputs.cache
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.exe
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.xml
+C:\Users\An Patel\Desktop\AutoCenter\AutoCenter\obj\x86\Debug\AutoCenter.pdb

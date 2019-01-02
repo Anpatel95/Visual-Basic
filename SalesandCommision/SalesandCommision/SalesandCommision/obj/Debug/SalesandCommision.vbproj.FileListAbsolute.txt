@@ -1,0 +1,12 @@
+C:\Users\patel\AppData\Local\Temporary Projects\SalesandCommision\bin\Debug\SalesandCommision.exe.config
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\bin\Debug\SalesandCommision.exe.config
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\bin\Debug\SalesandCommision.exe
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\bin\Debug\SalesandCommision.pdb
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\bin\Debug\SalesandCommision.xml
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\obj\Debug\SalesandCommision.vbprojResolveAssemblyReference.cache
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\obj\Debug\SalesandCommision.SalesandCommision.resources
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\obj\Debug\SalesandCommision.Resources.resources
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\obj\Debug\SalesandCommision.vbproj.GenerateResource.Cache
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\obj\Debug\SalesandCommision.exe
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\obj\Debug\SalesandCommision.xml
+C:\Users\patel\Documents\Visual Studio 2015\Projects\SalesandCommision\SalesandCommision\obj\Debug\SalesandCommision.pdb

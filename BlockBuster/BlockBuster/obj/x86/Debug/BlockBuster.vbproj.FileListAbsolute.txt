@@ -1,0 +1,22 @@
+v:\15aapatel2\BlockBuster\BlockBuster\bin\Debug\BlockBuster.exe
+v:\15aapatel2\BlockBuster\BlockBuster\bin\Debug\BlockBuster.pdb
+v:\15aapatel2\BlockBuster\BlockBuster\bin\Debug\BlockBuster.xml
+v:\15aapatel2\BlockBuster\BlockBuster\obj\x86\Debug\ResolveAssemblyReference.cache
+v:\15aapatel2\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.lblBLB.resources
+v:\15aapatel2\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.Resources.resources
+v:\15aapatel2\BlockBuster\BlockBuster\obj\x86\Debug\GenerateResource.read.1.tlog
+v:\15aapatel2\BlockBuster\BlockBuster\obj\x86\Debug\GenerateResource.write.1.tlog
+v:\15aapatel2\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.exe
+v:\15aapatel2\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.xml
+v:\15aapatel2\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.pdb
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\bin\Debug\BlockBuster.exe
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\bin\Debug\BlockBuster.pdb
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\bin\Debug\BlockBuster.xml
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.vbprojAssemblyReference.cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.lblBLB.resources
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.Resources.resources
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.vbproj.GenerateResource.cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.vbproj.CoreCompileInputs.cache
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.exe
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.xml
+C:\Users\An Patel\Documents\BCCC classes\15aapatel2 VB\BlockBuster\BlockBuster\obj\x86\Debug\BlockBuster.pdb

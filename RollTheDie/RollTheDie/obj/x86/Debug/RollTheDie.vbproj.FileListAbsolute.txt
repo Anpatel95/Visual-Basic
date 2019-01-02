@@ -1,0 +1,51 @@
+v:\15aapatel2\RollTheDie\RollTheDie\bin\Debug\RollTheDie.exe
+v:\15aapatel2\RollTheDie\RollTheDie\bin\Debug\RollTheDie.pdb
+v:\15aapatel2\RollTheDie\RollTheDie\bin\Debug\RollTheDie.xml
+v:\15aapatel2\RollTheDie\RollTheDie\obj\x86\Debug\ResolveAssemblyReference.cache
+v:\15aapatel2\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.frmRollDie.resources
+v:\15aapatel2\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.Resources.resources
+v:\15aapatel2\RollTheDie\RollTheDie\obj\x86\Debug\GenerateResource.read.1.tlog
+v:\15aapatel2\RollTheDie\RollTheDie\obj\x86\Debug\GenerateResource.write.1.tlog
+v:\15aapatel2\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.exe
+v:\15aapatel2\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.xml
+v:\15aapatel2\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.pdb
+E:\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.exe
+E:\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.xml
+E:\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.pdb
+E:\RollTheDie\RollTheDie\bin\Debug\RollTheDie.exe
+E:\RollTheDie\RollTheDie\bin\Debug\RollTheDie.pdb
+E:\RollTheDie\RollTheDie\bin\Debug\RollTheDie.xml
+E:\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.frmRollDie.resources
+E:\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.Resources.resources
+E:\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.vbproj.GenerateResource.Cache
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.exe
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.xml
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.pdb
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\bin\Debug\RollTheDie.exe
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\bin\Debug\RollTheDie.pdb
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\bin\Debug\RollTheDie.xml
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\ResolveAssemblyReference.cache
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.frmRollDie.resources
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.Resources.resources
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\GenerateResource.read.1.tlog
+V:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.exe
+E:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.xml
+E:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.pdb
+E:\15aapatel2\RollTheDie - Copy\RollTheDie\bin\Debug\RollTheDie.exe
+E:\15aapatel2\RollTheDie - Copy\RollTheDie\bin\Debug\RollTheDie.pdb
+E:\15aapatel2\RollTheDie - Copy\RollTheDie\bin\Debug\RollTheDie.xml
+E:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.frmRollDie.resources
+E:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.Resources.resources
+E:\15aapatel2\RollTheDie - Copy\RollTheDie\obj\x86\Debug\RollTheDie.vbproj.GenerateResource.Cache
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\bin\Debug\RollTheDie.exe
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\bin\Debug\RollTheDie.pdb
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\bin\Debug\RollTheDie.xml
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.vbprojAssemblyReference.cache
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.frmRollDie.resources
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.Resources.resources
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.vbproj.GenerateResource.cache
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.vbproj.CoreCompileInputs.cache
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.exe
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.xml
+C:\Users\An Patel\Desktop\RollTheDie\RollTheDie\obj\x86\Debug\RollTheDie.pdb

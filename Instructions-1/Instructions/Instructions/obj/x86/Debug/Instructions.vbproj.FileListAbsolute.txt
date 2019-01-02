@@ -1,0 +1,21 @@
+C:\Users\patel\AppData\Local\Temporary Projects\Instructions\bin\Debug\Instructions.exe
+C:\Users\patel\AppData\Local\Temporary Projects\Instructions\bin\Debug\Instructions.pdb
+C:\Users\patel\AppData\Local\Temporary Projects\Instructions\bin\Debug\Instructions.xml
+C:\Users\patel\AppData\Local\Temporary Projects\Instructions\obj\x86\Debug\Instructions.frmInstructor.resources
+C:\Users\patel\AppData\Local\Temporary Projects\Instructions\obj\x86\Debug\Instructions.Resources.resources
+C:\Users\patel\AppData\Local\Temporary Projects\Instructions\obj\x86\Debug\Instructions.vbproj.GenerateResource.Cache
+C:\Users\patel\AppData\Local\Temporary Projects\Instructions\obj\x86\Debug\Instructions.exe
+C:\Users\patel\AppData\Local\Temporary Projects\Instructions\obj\x86\Debug\Instructions.xml
+C:\Users\patel\AppData\Local\Temporary Projects\Instructions\obj\x86\Debug\Instructions.pdb
+A:\Project\Instructions\Instructions\obj\x86\Debug\Instructions.exe
+A:\Project\Instructions\Instructions\obj\x86\Debug\Instructions.xml
+A:\Project\Instructions\Instructions\obj\x86\Debug\Instructions.pdb
+A:\Project\Instructions\Instructions\bin\Debug\Instructions.exe
+A:\Project\Instructions\Instructions\bin\Debug\Instructions.pdb
+A:\Project\Instructions\Instructions\bin\Debug\Instructions.xml
+A:\Project\Instructions\Instructions\obj\x86\Debug\Instructions.frmInstructor.resources
+A:\Project\Instructions\Instructions\obj\x86\Debug\Instructions.Resources.resources
+A:\Project\Instructions\Instructions\obj\x86\Debug\Instructions.vbproj.GenerateResource.Cache
+C:\Users\patel\Desktop\CISC 113 Visual Basic\Instructions-1\Instructions\Instructions\obj\x86\Debug\Instructions.exe
+C:\Users\patel\Desktop\CISC 113 Visual Basic\Instructions-1\Instructions\Instructions\obj\x86\Debug\Instructions.xml
+C:\Users\patel\Desktop\CISC 113 Visual Basic\Instructions-1\Instructions\Instructions\obj\x86\Debug\Instructions.pdb

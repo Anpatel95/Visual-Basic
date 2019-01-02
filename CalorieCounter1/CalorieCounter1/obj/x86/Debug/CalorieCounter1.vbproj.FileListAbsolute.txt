@@ -1,0 +1,11 @@
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\bin\Debug\CalorieCounter1.exe
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\bin\Debug\CalorieCounter1.pdb
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\bin\Debug\CalorieCounter1.xml
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\obj\x86\Debug\ResolveAssemblyReference.cache
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\obj\x86\Debug\CalorieCounter1.Form1.resources
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\obj\x86\Debug\CalorieCounter1.Resources.resources
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\obj\x86\Debug\GenerateResource.read.1.tlog
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\obj\x86\Debug\GenerateResource.write.1.tlog
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\obj\x86\Debug\CalorieCounter1.exe
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\obj\x86\Debug\CalorieCounter1.xml
+v:\15aapatel2\CalorieCounter1\CalorieCounter1\obj\x86\Debug\CalorieCounter1.pdb

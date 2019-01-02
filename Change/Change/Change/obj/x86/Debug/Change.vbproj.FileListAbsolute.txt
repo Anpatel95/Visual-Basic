@@ -1,0 +1,12 @@
+A:\Project\Change\Change\bin\Debug\Change.exe
+A:\Project\Change\Change\bin\Debug\Change.pdb
+A:\Project\Change\Change\bin\Debug\Change.xml
+A:\Project\Change\Change\obj\x86\Debug\Change.txtChange.resources
+A:\Project\Change\Change\obj\x86\Debug\Change.Resources.resources
+A:\Project\Change\Change\obj\x86\Debug\Change.vbproj.GenerateResource.Cache
+A:\Project\Change\Change\obj\x86\Debug\Change.exe
+A:\Project\Change\Change\obj\x86\Debug\Change.xml
+A:\Project\Change\Change\obj\x86\Debug\Change.pdb
+C:\Users\patel\Desktop\CISC 113 Visual Basic\Change\Change\Change\obj\x86\Debug\Change.exe
+C:\Users\patel\Desktop\CISC 113 Visual Basic\Change\Change\Change\obj\x86\Debug\Change.xml
+C:\Users\patel\Desktop\CISC 113 Visual Basic\Change\Change\Change\obj\x86\Debug\Change.pdb

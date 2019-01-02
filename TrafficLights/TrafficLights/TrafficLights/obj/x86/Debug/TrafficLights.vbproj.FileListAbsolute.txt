@@ -1,0 +1,20 @@
+A:\Project\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe
+A:\Project\TrafficLights\TrafficLights\bin\Debug\TrafficLights.pdb
+A:\Project\TrafficLights\TrafficLights\bin\Debug\TrafficLights.xml
+A:\Project\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.frmTraffic.resources
+A:\Project\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.Resources.resources
+A:\Project\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.vbproj.GenerateResource.Cache
+A:\Project\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.exe
+A:\Project\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.xml
+A:\Project\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.pdb
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\bin\Debug\TrafficLights.pdb
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\bin\Debug\TrafficLights.xml
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.vbprojAssemblyReference.cache
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.frmTraffic.resources
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.Resources.resources
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.vbproj.GenerateResource.cache
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.vbproj.CoreCompileInputs.cache
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.exe
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.xml
+C:\Users\An Patel\Documents\BCCC classes\CISC 113 Visual Basic\TrafficLights\TrafficLights\TrafficLights\obj\x86\Debug\TrafficLights.pdb

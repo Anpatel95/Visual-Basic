@@ -1,0 +1,29 @@
+A:\Project\RetailSale\RetailSale\bin\Debug\RetailSale.exe
+A:\Project\RetailSale\RetailSale\bin\Debug\RetailSale.pdb
+A:\Project\RetailSale\RetailSale\bin\Debug\RetailSale.xml
+A:\Project\RetailSale\RetailSale\obj\x86\Debug\RetailSale.RetailSale.resources
+A:\Project\RetailSale\RetailSale\obj\x86\Debug\RetailSale.Resources.resources
+A:\Project\RetailSale\RetailSale\obj\x86\Debug\RetailSale.vbproj.GenerateResource.Cache
+A:\Project\RetailSale\RetailSale\obj\x86\Debug\RetailSale.exe
+A:\Project\RetailSale\RetailSale\obj\x86\Debug\RetailSale.xml
+A:\Project\RetailSale\RetailSale\obj\x86\Debug\RetailSale.pdb
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.exe
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.xml
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.pdb
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\bin\Debug\RetailSale.exe
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\bin\Debug\RetailSale.pdb
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\bin\Debug\RetailSale.xml
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.vbprojResolveAssemblyReference.cache
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.RetailSale.resources
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.Resources.resources
+C:\Users\patela61606\Downloads\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.vbproj.GenerateResource.Cache
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.exe
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.xml
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.pdb
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\bin\Debug\RetailSale.exe
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\bin\Debug\RetailSale.pdb
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\bin\Debug\RetailSale.xml
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.vbprojResolveAssemblyReference.cache
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.RetailSale.resources
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.Resources.resources
+C:\Users\patel\Desktop\CISC 113 Visual Basic\RetailSale-1\RetailSale\RetailSale\RetailSale\obj\x86\Debug\RetailSale.vbproj.GenerateResource.Cache
